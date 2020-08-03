@@ -10,6 +10,8 @@
       <p>Deque, ein amerikanisches Unternehmen, das sich auf die Zugänglichkeit von Webseiten spezialisiert hat, hat in einem Blog-Beitrag sowohl die Richtlinie 2016/2102 (für den öffentlichen Sektor) als auch die Richtlinie 2019/882 (für den privaten Sektor) behandelt. <a href="https://www.deque.com/blog/eu-web-accessibility-compliance-and-legislation/" hreflang="en">ein amerikanisches Unternehmen, das sich auf die Zugänglichkeit von Webseiten spezialisiert hat, hat in einem Blog-Beitrag sowohl die Richtlinie 2016/2102 (für den öffentlichen Sektor) als auch die Richtlinie 2019/882 (für den privaten Sektor) behandelt.</a></p>
 
       <p><a href="https://www.fronta11y.org/barrierefreiheit-fuer-produkte-und-dienstleistungen-der-european-accessibility-act/">Eine detaillierte Zusammenfassung der Richtlinie finden Sie in diesem Artikel von Anne-Marie Nebe.</a></p>
+
+      <p><a hreflang="en" href="https://www.a11y-act.eu/">Übrigens: diese Infoseite gibt es auch in einer englischsprachigen Fassung</a>.</p>
     </div>
   </section>
 </template>
